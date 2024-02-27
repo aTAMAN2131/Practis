@@ -31,4 +31,5 @@ int main() {
         }
     }
     std::cout << "Сума елементів, кратних " << k << ": " << sum << std::endl;
-    return 0;
+      return 0;
+  }
